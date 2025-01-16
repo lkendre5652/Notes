@@ -1,0 +1,16 @@
+#] docker -v
+#] docker --version
+#] docker pull <image name>
+#] docker pull <image name>:18 => get the specific version :<tag>
+#] Docker Hub.
+#] docker images => Check the images.
+#] docker ps => show running image
+#] doker exec -it <id/name> paython3
+ -> It will opening the paython 3 for writting code and etc.
+ #] docker inspect <id container>
+ #] docker run --name javaContainer -it -d openjdk
+ -> -it  : interative mode to run continuesly
+ -> -d :dashed mode
+ 
+
+
